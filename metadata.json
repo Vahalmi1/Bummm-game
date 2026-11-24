@@ -1,0 +1,6 @@
+{
+  "name": "BUMMM!",
+  "description": "Multiplayer party counting game where players take turns counting up and hitting BUMMM! on magic multiples or digits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
